@@ -1,0 +1,101 @@
+Student ID,Department,Level,Attendance Percentage,Average Examination Score
+COCIMS/25/78050,"Software Engineering",200,89.57,55.75
+COCIMS/26/68980,"Software Engineering",100,96.67,54.89
+COCIMS/23/99166,"Computer Science",400,54.81,94.75
+COCIMS/24/21500,"Software Engineering",300,84.38,92.70
+COCIMS/26/24477,"Computer Science",100,78.49,79.60
+COCIMS/26/55625,"Computer Science",100,88.22,57.80
+COCIMS/23/72040,"Cybersecurity",400,80.07,42.94
+COCIMS/25/73712,"Computer Science",200,64.29,54.86
+COCIMS/23/78325,"Information Technology",400,88.14,46.70
+COCIMS/24/62669,"Software Engineering",300,70.92,56.09
+COCIMS/26/58533,"Computer Science",100,56.10,90.95
+COCIMS/24/36094,"Computer Science",300,92.68,41.35
+COCIMS/23/11084,"Computer Science",400,88.01,81.56
+COCIMS/25/28606,"Cybersecurity",200,58.41,80.15
+COCIMS/25/60197,"Information Technology",200,90.26,79.15
+COCIMS/23/91478,"Information Technology",400,52.35,58.84
+COCIMS/23/32760,"Computer Science",400,93.76,63.86
+COCIMS/25/70194,"Cybersecurity",200,98.60,41.52
+COCIMS/24/40728,"Software Engineering",300,65.33,48.64
+COCIMS/25/93043,"Cybersecurity",200,58.06,41.35
+COCIMS/25/19064,"Computer Science",200,89.90,70.57
+COCIMS/26/38505,"Computer Science",100,90.25,52.27
+COCIMS/26/59259,"Information Technology",100,91.53,52.20
+COCIMS/23/36049,"Cybersecurity",400,84.64,45.83
+COCIMS/24/34520,"Cybersecurity",300,75.33,65.10
+COCIMS/25/40793,"Cybersecurity",200,78.43,58.10
+COCIMS/23/36359,"Software Engineering",400,74.00,57.86
+COCIMS/23/83091,"Information Technology",400,55.84,96.73
+COCIMS/25/90097,"Cybersecurity",200,82.18,65.69
+COCIMS/23/24258,"Cybersecurity",400,68.36,77.28
+COCIMS/24/63508,"Software Engineering",300,51.01,59.75
+COCIMS/24/19152,"Cybersecurity",300,57.87,95.97
+COCIMS/25/12880,"Information Technology",200,50.33,90.35
+COCIMS/26/35453,"Computer Science",100,62.73,50.84
+COCIMS/24/51716,"Computer Science",300,96.01,43.22
+COCIMS/24/71441,"Software Engineering",300,95.75,45.13
+COCIMS/25/75737,"Computer Science",200,76.46,66.42
+COCIMS/24/54017,"Cybersecurity",300,64.43,55.53
+COCIMS/25/86051,"Cybersecurity",200,78.02,60.46
+COCIMS/23/65089,"Cybersecurity",400,82.10,44.81
+COCIMS/23/48906,"Computer Science",400,94.97,93.49
+COCIMS/25/72491,"Software Engineering",200,66.34,73.58
+COCIMS/23/80185,"Software Engineering",400,64.81,50.21
+COCIMS/26/24765,"Computer Science",100,54.11,61.38
+COCIMS/24/66833,"Software Engineering",300,89.77,90.50
+COCIMS/24/61788,"Information Technology",300,60.43,85.74
+COCIMS/26/18059,"Computer Science",100,92.64,82.50
+COCIMS/24/84469,"Information Technology",300,84.06,57.39
+COCIMS/23/24734,"Information Technology",400,62.36,62.74
+COCIMS/23/67281,"Software Engineering",400,70.66,62.43
+COCIMS/24/12776,"Computer Science",300,51.69,49.88
+COCIMS/23/97699,"Information Technology",400,74.22,67.94
+COCIMS/25/85882,"Cybersecurity",200,97.84,43.96
+COCIMS/24/42285,"Information Technology",300,78.88,68.53
+COCIMS/26/38685,"Information Technology",100,81.10,73.93
+COCIMS/24/98032,"Cybersecurity",300,62.88,42.87
+COCIMS/26/59568,"Information Technology",100,99.03,60.52
+COCIMS/26/97727,"Computer Science",100,67.31,81.50
+COCIMS/23/49625,"Software Engineering",400,62.24,66.74
+COCIMS/24/75719,"Information Technology",300,81.72,65.32
+COCIMS/24/98303,"Cybersecurity",300,69.03,44.24
+COCIMS/24/17562,"Computer Science",300,72.46,59.21
+COCIMS/23/53066,"Information Technology",400,51.45,66.04
+COCIMS/25/61109,"Software Engineering",200,70.58,67.47
+COCIMS/25/84297,"Computer Science",200,97.58,90.35
+COCIMS/25/52265,"Computer Science",200,91.70,58.95
+COCIMS/25/17716,"Information Technology",200,53.62,72.50
+COCIMS/25/77096,"Cybersecurity",200,88.12,78.05
+COCIMS/24/14129,"Cybersecurity",300,95.85,49.50
+COCIMS/23/90097,"Software Engineering",400,70.05,51.89
+COCIMS/25/60305,"Software Engineering",200,65.22,65.81
+COCIMS/25/94469,"Computer Science",200,73.67,58.80
+COCIMS/25/43769,"Information Technology",200,55.40,61.86
+COCIMS/26/18494,"Cybersecurity",100,63.28,88.95
+COCIMS/25/42794,"Information Technology",200,61.05,58.64
+COCIMS/26/93045,"Software Engineering",100,95.96,77.91
+COCIMS/26/26339,"Cybersecurity",100,75.44,67.57
+COCIMS/26/87675,"Computer Science",100,92.51,65.50
+COCIMS/23/24654,"Information Technology",400,99.25,78.77
+COCIMS/26/18457,"Computer Science",100,83.55,95.19
+COCIMS/26/72220,"Software Engineering",100,59.96,81.30
+COCIMS/23/63619,"Information Technology",400,80.07,60.67
+COCIMS/25/29973,"Software Engineering",200,82.37,81.86
+COCIMS/24/32356,"Cybersecurity",300,60.50,63.18
+COCIMS/25/35357,"Cybersecurity",200,70.75,71.87
+COCIMS/26/82269,"Software Engineering",100,58.05,52.27
+COCIMS/26/35915,"Cybersecurity",100,84.12,75.65
+COCIMS/23/69307,"Software Engineering",400,65.28,45.15
+COCIMS/25/37990,"Software Engineering",200,59.24,58.24
+COCIMS/23/41170,"Computer Science",400,88.07,40.32
+COCIMS/24/47471,"Cybersecurity",300,71.41,72.17
+COCIMS/26/43021,"Computer Science",100,88.65,95.17
+COCIMS/25/94152,"Cybersecurity",200,66.16,54.55
+COCIMS/25/29549,"Information Technology",200,72.57,59.26
+COCIMS/23/97207,"Computer Science",400,73.10,89.77
+COCIMS/25/19346,"Software Engineering",200,92.13,90.20
+COCIMS/23/67777,"Software Engineering",400,66.28,55.10
+COCIMS/25/93714,"Computer Science",200,82.31,79.34
+COCIMS/24/98689,"Cybersecurity",300,88.18,92.75
+COCIMS/26/49390,"Cybersecurity",100,55.89,75.13
